@@ -20,6 +20,6 @@ to check for the GPU in pytorch, please run the following command
 
 Hello sir, This is **Nikhileswara Rao Sulake**, I am a 2nd year Undergrad and actively working on this project. If by any chance any error or problem occurs in the code, please feel free to contact at
 
-Gmail : `_nikhil01446@gmail.com_`
+Gmail : _nikhil01446@gmail.com_
 
-Phone : `_+91 6281128232_`
+Phone : _+91 6281128232_
