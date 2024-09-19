@@ -15,3 +15,9 @@ to check for the GPU in pytorch, please run the following command
 ```import torch```
 
 ```print(torch.cuda.is_available())```
+
+# Contact
+
+Hello sir, This is Nikhileswara Rao Sulake, I am a 2nd year Undergrad and actively working on this project. If by any chance any error or problem occurs in the code, please feel free to contact at
+gmail : nikhil01446@gmail.com
+phone : +91 6281128232
