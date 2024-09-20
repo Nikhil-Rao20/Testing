@@ -8,6 +8,10 @@ The data is Thyroid Nodule Segementation Dataset, obtained from Stanford medical
 The dataset is available in Kaggle : https://www.kaggle.com/datasets/sivalalsir/stanford-thyroid-cine-clips-train-test-val-splits
 Please download this dataset (~2GB)
 
+# Epochs Setting
+Please have the look at epoch count while training , it is intially set to 1 for testing, if the one epoch is trained successfully. Please change it 50
+`Epoch:50`
+
 # Pytorch GPU access
 pytorch should be installed according to the cuda version. You can refer to it in https://pytorch.org/
 to check for the GPU in pytorch, please run the following command
